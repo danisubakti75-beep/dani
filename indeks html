@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon Profil</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    .profile {
+      max-width: 600px;
+      margin: 50px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .profile img {
+      width: 150px;
+      border-radius: 50%;
+    }
+    .profile h1 {
+      margin: 10px 0 5px;
+    }
+    .profile p {
+      color: #666;
+    }
+    .socials a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="profile">
+    <img src="https://via.placeholder.com/150" alt="Photo de profil">
+    <h1>Jean Dupont</h1>
+    <p>Développeur Web | Paris, France</p>
+    <p>Passionné par le code, l’UX/UI et le développement full-stack.</p>
+    <div class="socials">
+      <a href="#">LinkedIn</a>
+      <a href="#">GitHub</a>
+      <a href="#">Twitter</a>
+    </div>
+  </div>
+
+</body>
+</html>
+Dis-moi ce que tu veux précisément :
+
+Tu veux ajouter une base de données ?
+
+Tu veux un profil modifiable ?
+
+Tu veux utiliser un framework comme React ou Vue ?
+
+Tu veux que ça ressemble à un réseau social ?
+
+👉 Donne-moi plus de détails et je te fais un code adapté.
+
+
+
